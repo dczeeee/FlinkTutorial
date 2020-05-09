@@ -8,7 +8,7 @@ object WordCount {
     val env = ExecutionEnvironment.getExecutionEnvironment
 
     // 读取数据
-    val inputPath = "/home/wanghy/Workspace/IDEA/FlinkTutorial/src/main/resources/hello.txt"
+    val inputPath = "src/main/resources/hello.txt"
     val inputData = env.readTextFile(inputPath)
 
     // wordCount
