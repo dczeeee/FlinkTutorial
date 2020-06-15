@@ -1,7 +1,6 @@
-hello hi
-hello hi
-hello flink
-hello elasticsearch
-hello hadoop
-hello spark
-hello kibana
+hadoop
+flink
+elasticsearch
+hadoop
+spark
+kibana
